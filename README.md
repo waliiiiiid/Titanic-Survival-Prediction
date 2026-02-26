@@ -20,4 +20,3 @@
 - Passenger class (`pclass`) influenced survival
 - Outliers in fare and age handled properly
 
-**Portfolio-Ready:** Professional notebook + PDF included
